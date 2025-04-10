@@ -18,6 +18,7 @@ This RESTful API provides endpoints for creating, reading, updating, and deletin
 - Swagger/OpenAPI
 - Newtonsoft.Json
 - JsonPatch for partial updates
+- Serilog for logs
 
 ## Setup
 1. Clone the repository
